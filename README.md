@@ -4,4 +4,4 @@ BH is a C++ project for the Blizzard Ent. game Diablo II. This project was origi
 
 # Maintainers
 
-Nobody, don't open a ticket.
+Nobody, don't open an issue.
